@@ -1,9 +1,10 @@
 # Data Preparation
 - Overview<br>
-        To prepare the data for analysis, the following steps were taken
+        
+To prepare the data for analysis, the following steps were taken
 
-        * The prep.py script was executed to process the raw data. However, it was noted that the script could not generate 1 GB of data as requested. An alternative code that can produce 1 GB of data would be appreciated.
-        * The prepared dataset was then inspected in the test.ipynb Jupyter notebook.
+- The prep.py script was executed to process the raw data. However, it was noted that the script could not generate 1 GB of data as requested. An alternative code that can produce 1 GB of data would be appreciated.
+- The prepared dataset was then inspected in the test.ipynb Jupyter notebook.
 <br>
     
 - Data Inspection<br>
